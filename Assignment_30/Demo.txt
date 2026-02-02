@@ -1,0 +1,1 @@
+The with statement in Python 3 is a control-flow structure used for Python simplified and safe resource management Python .
