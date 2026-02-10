@@ -1,0 +1,19 @@
+--------------------------------------------------
+------------Assignment 32 Question 4--------------
+--------------------------------------------------
+
+
+
+start time 1770753839.8640337 
+Deleted file name is Demo\Test copy 3.Html 
+Deleted file name is Demo\Test copy 4.Html 
+Deleted file name is Demo\User copy 3.txt 
+Deleted file name is Demo\User copy 4.txt 
+Deleted file name is Demo\User copy 5.txt 
+End time 1770753839.8684251 
+Total time require to execute this script is 0.00439143180847168
+
+
+--------------------------------------------------
+---------End Assignment 32 Question 4-------------
+--------------------------------------------------

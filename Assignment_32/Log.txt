@@ -1,0 +1,16 @@
+--------------------------------------------------
+------------Assignment 32 Question 2--------------
+--------------------------------------------------
+
+
+
+Name of Duplicate file is Demo\Deo copy 2.tex 
+Name of Duplicate file is Demo\Deo copy 3.tex 
+Name of Duplicate file is Demo\Deo copy 4.tex 
+Name of Duplicate file is Demo\Deo copy 5.tex 
+
+
+
+--------------------------------------------------
+---------End Assignment 32 Question 2-------------
+--------------------------------------------------
